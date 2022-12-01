@@ -1,0 +1,22 @@
+{
+  "encoded": "JsgZ+8ZY9zvKxdeVB/7D+U6RIF4MRSLH3nG3YrQHj0wAgAAAAQAAAAgAAAA0zQBIbtQvcUoSUXh9ouWx0Dkj7JhnG6TwEYYGoADAPiKzB/Fmk5Y9DXHwXW8cZF3aLniA3EiCJB9uE8wgKeL4tDMd2KvXd+p4wggNAginxKXIVPNPGSz32KNUGDj1s7J+ZTs0QjlGrlPOsEYwTdeQBFq1BX1Tu16BIqqDUCaT3UhTmKNA7Qaj3cLNMQZ1utOkLicy3ZRu6gHjnyrE",
+  "encoding": {
+    "content": [
+      "pkcs8",
+      "sr25519"
+    ],
+    "type": [
+      "scrypt",
+      "xsalsa20-poly1305"
+    ],
+    "version": "3"
+  },
+  "address": "5FCYG6F11kPnqFdhhGpnHmqvX6BLLbSDbavUmGiJGdaWegQw",
+  "meta": {
+    "genesisHash": "0xc87870ef90a438d574b8e320f17db372c50f62beb52e479c8ff6ee5b460670b9",
+    "isHardware": false,
+    "name": "eco",
+    "tags": [],
+    "whenCreated": 1669881064723
+  }
+}

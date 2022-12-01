@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "dotenv -- tsnd --respawn src/index.ts",
+    "start": "dotenv -- node dist/index.js",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@unique-nft/accounts": "^0.3.4",
+    "@unique-nft/sdk": "^0.1.13",
+    "axios": "^1.2.0",
+    "canvas": "^2.10.2",
+    "cron": "^2.1.0",
+    "dotenv-cli": "^6.0.0",
+    "node-fetch": "^3.3.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "@types/cron": "^2.0.0",
+    "@types/node": "^18.11.9"
+  }
+}
